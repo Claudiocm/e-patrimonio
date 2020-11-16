@@ -1,0 +1,8 @@
+{
+  "name": "e-patrimonio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "fbd69cf2"
+}
